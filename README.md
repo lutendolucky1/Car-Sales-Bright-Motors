@@ -9,7 +9,7 @@ The project demonstrates an end-to-end data workflow—transforming raw transact
 
 ##  Live Dashboard
  **View the Interactive Sales Dashboard**  
-*(#  Bright Motors: Car Sales Performance Analysis
+*(#  Bright Motors: Car Sales Performance Analysis)
 
 ##  Project Overview
 This repository presents a comprehensive data analysis project for **Bright Motors**, a car dealership group aiming to optimize its sales strategy.  
@@ -51,12 +51,6 @@ The project demonstrates an end-to-end data workflow—transforming raw transact
 
 - **Miro**  
   Visualization of data architecture and pipeline design.
-
----
-
-## Data Transformation (SQL)
-To ensure data accuracy and reliability, robust data-cleaning and null-handling strategies were applied.
-
 
 ---
 
