@@ -57,12 +57,6 @@ The project demonstrates an end-to-end data workflow—transforming raw transact
 ## Data Transformation (SQL)
 To ensure data accuracy and reliability, robust data-cleaning and null-handling strategies were applied.
 
-### Example:
-```sql
-SELECT 
-    COALESCE(customer_income, 0) AS customer_income,
-    COALESCE(vehicle_price, AVG(vehicle_price) OVER()) AS vehicle_price
-FROM bright_motors_sales;)*
 
 ---
 
